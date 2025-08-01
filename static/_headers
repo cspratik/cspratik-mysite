@@ -1,0 +1,7 @@
+/*
+
+  Content-Security-Policy:
+    default-src 'self';
+    script-src 'self' https://unpkg.com https://identity.netlify.com;
+    style-src 'self' 'unsafe-inline';
+
